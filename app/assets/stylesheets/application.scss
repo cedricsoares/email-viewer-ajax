@@ -1,5 +1,11 @@
 @import "bootstrap";
 
+.wrapper {
+	display: flex ;
+	justify-content: space-between;
+  	margin-top:  5%;
+}
+
 
 .read {
   font-weight: normal;
