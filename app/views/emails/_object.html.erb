@@ -1,8 +1,15 @@
 <ul id='refresh'>
   <% @emails.each do |e|%>
-  <li id='<%= e.id %>' class: 'delete_email'>
-  <%= e.object %>
-  <%= link_to 'Voir', email_path(e.id), remote:true%>
+  <% if e.read == false %>
+  <li class='obj<%= e.id %> unread'>
+    <%= e.object %>
+    <%= link_to 'Voir', email_path(e.id), remote:true, class:'click'%>
   </li>
+  <% else %>
+  <li class='obj<%= e.id %> read'>
+    <%= e.object %>
+    <%= link_to 'Voir', email_path(e.id), remote:true, class:'click'%>
+  </li>
+  <% end %>
   <% end %>
 </ul>

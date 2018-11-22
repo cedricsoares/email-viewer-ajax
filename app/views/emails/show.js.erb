@@ -1,3 +1,4 @@
 $(document).ready(function() {
 	$('.body').html('<%= j render "emails/body"%>').show();
+	$('.obj<%= @email.id %>' + '.unread').css('font-weight', 'normal');
 });

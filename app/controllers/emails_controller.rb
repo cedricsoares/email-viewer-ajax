@@ -7,14 +7,13 @@ class EmailsController < ApplicationController
   def show
     @email = Email.find(params[:id])
 
-    puts @email
-
     puts "Axel drague la serveuse ! Dommage elle parle pas français"
 
     respond_to do |f|
       f.html { redirect_to email_path }
       f.js
     end
+    @email.update(read: true)
   end
 
 
