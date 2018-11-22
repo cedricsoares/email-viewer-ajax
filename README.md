@@ -29,8 +29,8 @@ Mais si t'es malin, tu peux toujours faire la manière casse-couille qui est cel
 
 1/ Sur cette page, tu peux téléchargé l'application en ZIP en dessous des 'contributors'
 avec un bouton 'Clone or download'. Clique sur le bouton, fait la macarena avec tes amis,
-ensuite clique sur 'Download ZIP'. Tu n'as plus qu'à dézipper avec un UNZIP dans ton
-terminal ou un EXTRAIRE ICI avec un clique droit de noob en codage. Passe au 2/
+ensuite clique sur 'Download ZIP'. <br>Tu n'as plus qu'à dézipper avec un UNZIP dans ton
+terminal ou un EXTRAIRE ICI avec un clique droit de noob en codage. <br>Passe au 2/
 
 2/ Maintenant tu n'as plus qu'à aller jusqu'à l'application avec ton terminal
 (ah le bolosse il a fait un clique droit) et fais un BUNDLE (parce que les vrais
@@ -38,15 +38,15 @@ terminal ou un EXTRAIRE ICI avec un clique droit de noob en codage. Passe au 2/
   avec un RAILS DB:MIGRATE pour finir avec un RAILS DB:SEED (on aurait pu raconter
     des blagues dans les emails mais on a décidé de faire comme THP nous l'a si bien appris:
     fais-en le moins possible avec des gens à l'arrache pour expliquer le boulot).
-    Passe au 3/
+    <br>Passe au 3/
 
-3/ Putain t'es arrivé jusqu'ici, t'es grave motivé(e) !!
+3/ Putain t'es arrivé jusqu'ici, t'es grave motivé(e) !!<br>
 Bon aller, fais-moi un RAILS S ou ce que tu sens. De toute façon mon binôme est tellement
 bon que je sais que tout fonctionne parfaitement. La preuve avec ce README qui déchire.
 
 ### THE END
 
-Bientôt la fin de THP, bientôt on verra qui sera le meilleur groupe.
+Bientôt la fin de THP, bientôt on verra qui sera le meilleur groupe.<br>
 Qui que tu sois, bon chance !
 
 <img src="https://media0.giphy.com/media/xUOxf3FTIl8hjK31Xa/giphy.gif?cid=3640f6095bf733067665624b45b2b34d" alt="Ouah t'es chaud pour aller jusqu'à chopé dans le readme des autres, nan je déconne sers-toi">
