@@ -1,17 +1,17 @@
 <h1>Emails#index</h1>
 <div class='wrapper'> 
 	<div class='email_container'>
-		<div class='object'>
+		<div class='email'>
 			<ul>
-				<% Email.each do |email|%>
-				<li>
-				<%= email.object %> 
+				<% @emails.each do |e|%>
+				<li id='object'>
+				<%= e.object %> 
+				<%= link_to 'Voir', email_path(e.id), remote:true%>
 				</li>
 				<% end %>
 			</ul>
 		</div>
 		<div class='body'>
-			<!-- afficher view js --->
 		</div>
 	</div>
 </div>
