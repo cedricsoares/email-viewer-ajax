@@ -49,4 +49,4 @@ bon que je sais que tout fonctionne parfaitement. La preuve avec ce README qui d
 Bientôt la fin de THP, bientôt on verra qui sera le meilleur groupe.<br>
 Qui que tu sois, bon chance !
 
-<img src="https://media0.giphy.com/media/xUOxf3FTIl8hjK31Xa/giphy.gif?cid=3640f6095bf733067665624b45b2b34d" alt="Ouah t'es chaud pour aller jusqu'à chopé dans le readme des autres, nan je déconne sers-toi">
+<img src="https://media0.giphy.com/media/xUOxf3FTIl8hjK31Xa/giphy.gif?cid=3640f6095bf733067665624b45b2b34d" alt="Ouah t'es chaud pour aller jusqu'à chopé dans le readme des autres, nan je déconne sers-toi. bite">
