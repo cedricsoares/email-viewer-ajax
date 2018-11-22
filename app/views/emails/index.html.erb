@@ -1,0 +1,17 @@
+<h1>Emails#index</h1>
+<div class='wrapper'> 
+	<div class='email_container'>
+		<div class='object'>
+			<ul>
+				<% Email.each do |email|%>
+				<li>
+				<%= email.object %> 
+				</li>
+				<% end %>
+			</ul>
+		</div>
+		<div class='body'>
+			<!-- afficher view js --->
+		</div>
+	</div>
+</div>
