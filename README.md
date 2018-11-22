@@ -23,7 +23,7 @@ La page INDEX.HTML.ERB est séparé en deux PARTIAL afin de ne pas surcharger le
 
 ## Aide pour la correction pour lancer le programme
 
-Si t'es intelligent, tu lanceras <a href="https://www.thehackingproject.org/dashboard/weeks/8/days/4">ce lien Heroku</a> pour avoir un visuel direct de l'application.
+Si t'es intelligent, tu lanceras <a href="https://email-viewer-shlag.herokuapp.com/">ce lien Heroku</a> pour avoir un visuel direct de l'application.
 
 Mais si t'es malin, tu peux toujours faire la manière casse-couille qui est celle-ci :
 
