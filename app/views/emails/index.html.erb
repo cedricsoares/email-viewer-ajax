@@ -1,15 +1,9 @@
-<h1>Emails#index</h1>
-<div class='wrapper'> 
+<h1>Les emails</h1>
+
+<div class='wrapper'>
 	<div class='email_container'>
 		<div class='email'>
-			<ul>
-				<% @emails.each do |e|%>
-				<li id='object'>
-				<%= e.object %> 
-				<%= link_to 'Voir', email_path(e.id), remote:true%>
-				</li>
-				<% end %>
-			</ul>
+			<%= render 'object' %>
 		</div>
 		<div class='body'>
 		</div>

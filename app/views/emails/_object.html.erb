@@ -1,0 +1,8 @@
+<ul id='refresh'>
+  <% @emails.each do |e|%>
+  <li id='<%= e.id %>' class: 'delete_email'>
+  <%= e.object %>
+  <%= link_to 'Voir', email_path(e.id), remote:true%>
+  </li>
+  <% end %>
+</ul>
